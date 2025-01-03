@@ -17,7 +17,10 @@ Model (Keras/TensorFlow):
 **File Structure**
 
 app.py: The main Flask application that handles user login, file uploads, and displaying results.
+
 model.py: The script used to define, train, and save the melanoma classification model.
+
 templates/:
+
   login.html: The login page where users enter their credentials.
   index.html: The page for uploading images and displaying classification results.
